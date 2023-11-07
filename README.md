@@ -1,5 +1,5 @@
 
- <img src = "https://avatars.githubusercontent.com/u/92725975?v=4" width = "200px">
+ <img src = "https://avatars.githubusercontent.com/u/92725975?v=4" width = "50px">
 
 
 ## Hi there 👋🏻
