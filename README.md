@@ -4,7 +4,6 @@
 
 
 <!--
-**gaerom/Saerom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-:mortar_board: I'm majoring Computer Science.
+#### 🎓 I'm majoring Computer Science.  
 
 #### 🌱 I’m interested in ...
 - Computer Vision(Object Detection, Pose Estimation, 3D Reconstruction, etc.)
