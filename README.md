@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 🎓 I'm majoring Computer Science.  
+#### 🎓 I'm majoring Computer Science.  
 
-### 🌱 I’m interested in ...
+#### 🌱 I’m interested in ...
 - Computer Vision(Object Detection, Pose Estimation, 3D Reconstruction, etc.)
 
 
-### ⚒️ Skill Keywords  
+#### ⚒️ Skill Keywords  
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
