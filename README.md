@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white)
 
 
-
 ![Pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=plastic-square&logo=pytorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/tensorflow-FF6F00?style=plastic-square&logo=tensorflow&logoColor=white)  
 
-![Oracle](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-#F80000?style=plastic&logo=mysql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 
 
