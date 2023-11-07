@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 -->
 ### 🎓 I'm majoring Computer Science.
 
-<span style="color: black;">🌱 I’m interested in ...</span>
-
+<span style="color: black; font-size: 24px;">🌱 I’m interested in ...</span> 
 - Computer Vision(Object Detection, Pose Estimation, 3D Reconstruction, etc.)
 
 <br>
