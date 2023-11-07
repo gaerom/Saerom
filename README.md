@@ -1,7 +1,7 @@
 <h1><img width='150px' src="https://avatars.githubusercontent.com/u/92725975?v=4"/>  Hi there 👋🏻</h1>  
 
 ## Welcome to Saerom's Github 
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Welcome%20to%20Saerom's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=Welcome%20to%20Saerom's%20Github&fontSize=30)
 
 
 <!--
