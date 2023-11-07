@@ -29,8 +29,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
   <br>
 
-  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=plastic-square&logo=pytorch&logoColor=white"> 
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=plastic-square&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"> 
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <br>
   
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
