@@ -5,7 +5,7 @@
 ### 🎓 I'm majoring in Computer Science and Engineering.
 
 ### 🌱 I’m interested in ...
-- Computer Vision(Object Detection, Pose Estimation, 3D Reconstruction, etc.)
+- Computer Vision(**Pose Estimation**, Object Detection, 3D Reconstruction, etc.)
 - Multimodal Learning
 
 <br>
