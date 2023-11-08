@@ -1,7 +1,4 @@
-<h1><span><img width='150px' src="https://avatars.githubusercontent.com/u/92725975?v=4"/>  Hi there 👋🏻</span></h1>
-
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=header&text=Welcome%20to%20Saerom's%20Github&fontSize=40)
+<h1><span><img width='150px' src="https://avatars.githubusercontent.com/u/92725975?v=4"/>  Welcome to Saerom's Github 👋🏻</span></h1>
 
 
 
