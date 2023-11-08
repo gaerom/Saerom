@@ -2,7 +2,7 @@
 
 
 
-### 🎓 I'm majoring in Computer Science.
+### 🎓 I'm majoring in Computer Science and Engineering.
 
 ### 🌱 I’m interested in ...
 - Computer Vision(Object Detection, Pose Estimation, 3D Reconstruction, etc.)
