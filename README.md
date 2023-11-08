@@ -7,6 +7,7 @@
 ### 🌱 I’m interested in ...
 - Computer Vision(**Pose Estimation**, Object Detection, 3D Reconstruction, etc.)
 - Multimodal Learning
+- Backend Development
 
 <br>
 
