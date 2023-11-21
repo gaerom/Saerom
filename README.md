@@ -5,11 +5,7 @@
 ### 🎓 I'm majoring in Computer Science and Engineering.
 
 ### 🌱 I’m interested in ...
-- Computer Vision
-  - **Pose Estimation**
-  - Vision Foundation Model
-  - Object Detection
-  - 3D Reconstruction
+- Computer Vision( **Pose Estimation**, Vision Foundation Model, Object Detection, 3D Reconstruction)
 - Backend Development
 
 <br>
